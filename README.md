@@ -1,2 +1,2 @@
 # powercycle
-Arduino Pro Micro, Neoway M590e GSM Module, and relay for power cycle
+Arduino Pro Mini, Neoway M590e GSM Module, and relay for power cycle
